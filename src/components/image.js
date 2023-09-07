@@ -5,7 +5,7 @@ const Image = (props) => {
     <div>
       <img
         src={props.img}
-        style={{ height: "240px" }}
+        style={{ height: "200px" }}
         className="image"
         alt=""
       ></img>
